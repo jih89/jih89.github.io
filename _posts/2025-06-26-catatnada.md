@@ -94,22 +94,20 @@ app/src/main/java/com/imam/catatnada/
 ## 📸 Screenshots
 
 ### Main Interface
-<img src="/assets/catatnada/main_screen.png" alt="Screenshot" style="max-width:500px; height:auto;">
+<img src="/assets/catatnada/main_screen.png" alt="Screenshot" style="max-width:450px; height:auto;">
 
 ### Search Functionality
-<img src="/assets/catatnada/search_screen.png" alt="Screenshot" style="max-width:500px; height:auto;">
+<img src="/assets/catatnada/search_screen.png" alt="Screenshot" style="max-width:450px; height:auto;">
 
 ### Playlist Management
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="/assets/catatnada/playlist_screen.png" alt="Screenshot" style="max-width: 400px; height: auto;">
-  <img src="/assets/catatnada/playlist_detail.png" alt="Screenshot" style="max-width: 400px; height: auto;">
-</div>
+<img src="/assets/catatnada/playlist_screen.png" alt="Screenshot" style="max-width: 450px; height: auto;">
+<img src="/assets/catatnada/playlist_detail.png" alt="Screenshot" style="max-width: 450px; height: auto;">
 
 ### Track Details
-<img src="/assets/catatnada/track_detail.png" alt="Screenshot" style="max-width:500px; height:auto;">
+<img src="/assets/catatnada/track_detail.png" alt="Screenshot" style="max-width:450px; height:auto;">
 
 ### Theme Switcher
-<img src="/assets/catatnada/settings_screen.png" alt="Screenshot" style="max-width:500px; height:auto;">
+<img src="/assets/catatnada/settings_screen.png" alt="Screenshot" style="max-width:450px; height:auto;">
 
 ---
 
