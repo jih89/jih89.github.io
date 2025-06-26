@@ -8,18 +8,16 @@ author_profile: true
 description: "Riset mengenai penetapan harga sewa kos yang subjektif di Kota Makassar"
 ---
 
-Saya sangat antusias untuk membagikan salah satu proyek penelitian paling signifikan yang pernah saya kerjakan bersama tim di Universitas Hasanuddin. Proyek ini berfokus pada penerapan teknik *data mining* dan *machine learning* untuk mengatasi masalah nyata di pasar properti lokal, yaitu penetapan harga sewa kos yang subjektif di Kota Makassar.
+Di Kota Makassar, banyak pemilik kos masih menetapkan harga sewa kos mereka berdasarkan intuisi, yang berisiko membuat mereka kehilangan pendapatan atau kamar tidak tersewa. Kami melihat adanya kebutuhan akan alat bantu berbasis data untuk membantu mereka membuat keputusan harga yang lebih objektif. 
 
-Hasil dari riset mendalam ini telah kami susun dalam sebuah paper ilmiah berjudul **“Pengembangan Model Prediksi Harga Sewa Kos di Makassar Menggunakan Teknik Data Mining”**.
+Maka dari itu, riset ini bertujuan untuk mengembangkan model prediksi harga sewa kos di Kota Makassar menggunakan teknik data mining dan machine learning. Model ini bertujuan untuk membantu pemilik properti dalam menetapkan harga sewa yang objektif dan kompetitif berdasarkan analisis data.
 
-### Inti Permasalahan
-> Di Makassar, banyak pemilik properti masih menetapkan harga sewa kos berdasarkan intuisi, yang berisiko kehilangan pendapatan atau kamar tidak tersewa.  
-> Kami melihat adanya kebutuhan akan alat bantu berbasis data untuk membantu mereka membuat keputusan harga yang lebih objektif. 
+Hasil dari riset ini telah kami susun dalam sebuah paper ilmiah berjudul **“Pengembangan Model Prediksi Harga Sewa Kos di Makassar Menggunakan Teknik Data Mining”**.
 
-### Pendekatan Kami
+### Pendekatan
 Untuk mengatasi masalah ini, tim kami melakukan pendekatan *data-driven* yang komprehensif:
-1.  > **Mengumpulkan Data:** Kami melakukan *web scraping* terhadap 1.162 listing kos dari platform Mamikos.com. 
-2.  > **Memperkaya Data:** Kami menerapkan *feature engineering* yang unik, termasuk mengubah fasilitas menjadi data biner dan menghitung jarak spasial dari setiap kos ke kampus-kampus utama di Makassar. 
+1.  **Mengumpulkan Data:** Kami melakukan *web scraping* terhadap 1.162 listing kos dari platform Mamikos.com. 
+2.  **Memperkaya Data:** Kami menerapkan *feature engineering* yang unik, termasuk mengubah fasilitas menjadi data biner dan menghitung jarak spasial dari setiap kos ke kampus-kampus utama di Makassar. 
 3.  **Membangun Model:** Kami melatih dan mengevaluasi beberapa model regresi *machine learning* untuk menemukan yang paling akurat dalam memprediksi harga.
 
 ### Temuan Utama
@@ -48,7 +46,7 @@ Di dalam paper, Anda akan menemukan:
 
 ---
 
-### Tim Peneliti & Ucapan Terima Kasih
+### Acknowledgement
 Penelitian ini adalah buah kerja sama tim yang luar biasa, terdiri dari: Muh. Tegar Adyaksa, Athifah Nur Rahman MD, M. Ervin, Cholyn Sharon Enos, dan saya sendiri, Imam Ahmad Mirza. 
 
 Kami juga mengucapkan terima kasih sebesar-besarnya kepada dosen pengampu mata kuliah Data Mining, **Bapak Dr. Eng. Supri Bin Hj. Amir, S.Si., M.Eng.**  dan **Bapak Octavian, S.Si., M.Kom.**, atas bimbingan dan arahan yang sangat berharga.
