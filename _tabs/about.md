@@ -31,6 +31,6 @@ Ketika tidak sedang belajar atau membuat kode, saya suka nonton youtube tentang 
 
 ### Mari Lihat Hasil Karya Saya
 
-Langkah terbaik untuk mengenal saya lebih jauh adalah dengan melihat hasil karya saya. Saya mengundang Anda untuk menjelajahi halaman **[portofolio saya](/)** untuk melihat proyek-proyek yang telah saya kerjakan.
+Langkah terbaik untuk mengenal saya lebih jauh adalah dengan melihat hasil karya saya. Saya mengundang Anda untuk menjelajahi halaman **[portfolio saya](/)** untuk melihat proyek-proyek yang telah saya kerjakan.
 
 Saya sangat antusias untuk mendiskusikan teknologi, proyek menarik, atau peluang magang/kerja. Jangan ragu untuk menghubungi saya melalui **[Email](mailto:imamahmad8186@gmail.com)**.
